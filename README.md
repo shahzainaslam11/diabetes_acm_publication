@@ -6,7 +6,7 @@
 
 ## 📄 Associated Publication
 
-This repository implements the methodology described in the ACM-style research paper.
+This repository implements the methodology described in the ACM-style research paper named **Explainable Federated Learning for Privacy Preserving Type-2 Diabetes Prediction**
 
 ---
 
