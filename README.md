@@ -123,9 +123,7 @@ The framework achieves strong predictive performance while maintaining privacy a
 │   ├── explainability/
 │   └── utils/
 ├── scripts/
-├── experiments/
-├── tests/
-├── docs/
+├── training/
 ├── README.md
 └── requirements.txt
 ````
